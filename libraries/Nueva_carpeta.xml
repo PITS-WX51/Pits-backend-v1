@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Nueva carpeta">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Nueva carpeta/tp.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Nueva carpeta/posibles estructuras de datos.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Nueva carpeta/Dos.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Nueva carpeta/IHC.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Nueva carpeta/Uno.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Nueva carpeta/RedSocial.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
